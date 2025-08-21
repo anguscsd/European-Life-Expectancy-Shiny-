@@ -31,8 +31,8 @@ Users can explore trends over time using a year slider, and the map dynamically 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<anguscsd>/<European-Life-Expectancy-Shiny>.git
-cd <European-Life-Expectancy-Shiny>
+git clone https://github.com/anguscsd/European-Life-Expectancy-Shiny.git
+cd European-Life-Expectancy-Shiny
 
 
 
