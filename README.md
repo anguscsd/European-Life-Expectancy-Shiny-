@@ -1,4 +1,4 @@
-# Life Expectancy in Europe (Shiny App)
+# Life Expectancy in Europe (R Shiny App)
 
 This Shiny application provides an interactive map showing average life expectancy at birth across Europe from 1900 to 2009.  
 Users can explore trends over time using a year slider, and the map dynamically updates to display country-level life expectancy.
