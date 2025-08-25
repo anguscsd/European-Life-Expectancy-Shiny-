@@ -20,7 +20,7 @@ Users can explore trends over time using a year slider, and the map dynamically 
   [Our World in Data](https://ourworldindata.org/life-expectancy)  
   Data compiled from:
   - Human Mortality Database  
-  - Clio-Infra (Zijdeman et al.) for pre-1950 estimates  
+  - Clio-Infra for pre-1950 estimates  
   - United Nations World Population Prospects (1950 onwards)
 - **Geospatial Data:**  
   [Natural Earth](https://www.naturalearthdata.com/) country boundaries via the **rnaturalearth** R package.
